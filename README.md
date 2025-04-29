@@ -128,6 +128,13 @@ Check out the demo video to see the application in action:
 
 https://github.com/user-attachments/assets/cbe7a5cd-bd40-44aa-8530-90134d60d698
 
+mini project video:
+
+
+
+
+https://github.com/user-attachments/assets/a61a7a79-1908-47b6-8a10-02e98eae81e9
+
 
 
 ## 🤝 Contributing
